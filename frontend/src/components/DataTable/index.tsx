@@ -21,13 +21,13 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Raissa</td>
+                        <td>Joao</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>     <tr>
                         <td>22/04/2021</td>
-                        <td>Raissa</td>
+                        <td>Janete</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
@@ -51,31 +51,31 @@ const DataTable = () => {
                         <td>15017.00</td>
                     </tr>  <tr>
                         <td>22/04/2021</td>
-                        <td>Raissa</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>  <tr>
                         <td>22/04/2021</td>
-                        <td>Raissa</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>  <tr>
                         <td>22/04/2021</td>
-                        <td>Raissa</td>
+                        <td>Joao</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>  <tr>
                         <td>22/04/2021</td>
-                        <td>Raissa</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>   <tr>
                         <td>22/04/2021</td>
-                        <td>Joao</td>
+                        <td>Raissa</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
