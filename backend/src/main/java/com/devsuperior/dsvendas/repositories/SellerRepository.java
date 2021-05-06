@@ -1,5 +1,4 @@
 package com.devsuperior.dsvendas.repositories;
-s
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.devsuperior.dsvendas.entities.Seller;
